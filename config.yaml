@@ -1,0 +1,11 @@
+data:
+  path: data/network_logs.csv
+model:
+  path: models/model.joblib
+  contamination: 0.10
+  random_state: 42
+mlflow:
+  experiment: network-anomaly-detection
+risk:
+  low: 0.40
+  medium: 0.70

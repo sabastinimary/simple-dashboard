@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+joblib
+pyyaml
+mlflow
+fastapi
+uvicorn[standard]
+pydantic
+pytest
+apache-airflow
